@@ -59,3 +59,22 @@ Module 6. Basic terminal operations.
 - ctrl + r : Search through command history.
 - up arrow key: Get previous command.
 - down arrow key: Get next command.
+
+Module 7. What is a Command? List different parts of a command.
+- A command is an instruction user type in the terminal to tell the computer what to do.
+- Parts of a command:
+1. Command name: The program or tool you want to run.
+2. Options/flags: Extra settings that change how the command works.
+3. Arguments: The files, folders, or other data the command acts on.
+
+Module 8. The 'man' command.
+- The 'man' command displays the manual (help documentation) for other commands.
+- Usage: man <command>
+- Use arrow keys to scroll, 'q' to quit the manual page.
+
+Module 9. The 'ls' command.
+- Lists files and directories in the current directory.
+- Most commonly used flags:
+1. ls -l : Long listing format (shows permissions, owner, size, date).
+2. ls -a : Show all files, including hidden ones (starting with .).
+3. ls -lh : Human-readable sizes (used with -l).
