@@ -1,0 +1,21 @@
+Module 1. What is CLI?
+- CLI: Command Line Interface.
+- Text-based Interface.
+- Allows user to interact with the a computer or software by typing commands.
+
+Module 2. Components of a CLI.
+- Terminal: Software program that lets user type commands.
+- Shell: It interprets and executes commands entered by the user.
+- Prompt: Shows that the user can type a command.
+- Cursor: Indicates where the user is typing.
+- Commands: Instructions to perform actions.
+- Output: Result of the command executed.
+- History: View or reuse previous commands.
+- Environment variables: Settings or variables that affect the execution of commands.
+
+Module 3. How CLI works?
+- User types a command in the terminal.
+- The terminal sends the command to the shell.
+- Shell interprets and executes the command.
+- The shell may interact with the OS to perform tasks according to the user's command.
+- The output is displayed back in the terminal.
