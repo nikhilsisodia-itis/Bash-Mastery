@@ -19,3 +19,43 @@ Module 3. How CLI works?
 - Shell interprets and executes the command.
 - The shell may interact with the OS to perform tasks according to the user's command.
 - The output is displayed back in the terminal.
+
+Module 4. Benefits of CLI.
+- Faster execution of tasks.
+- Automation of repetitive tasks using scripts.
+- Lower resource usage.
+- Remote systems management using SSH.
+- Greater control and flexibility over system operations.
+- Similar commands over different distributions.
+
+Module 5. Open the terminal using keyboard combination.
+- ctrl + alt + t : Opens the terminal(Linux).
+
+Module 6. Basic terminal operations.
+- ctrl + a : Move the cursor to the starting of the command.
+- ctrl + e : Move the cursor to the end of the command.
+- ctrl + c : Stops the execution of a command.
+- ctrl + d : Closes the terminal.
+- ctrl + + : Increase the size of the terminal.
+- ctrl + - : Decreases the size of the termianl.
+- ctrl + 0 : Set the size of the terminal to default.
+- ctrl + shift + up arrow key : Use to scroll up through the terminal output, one line at a time.
+- ctrl + shift + down arrow key : Use to scroll down through the terminal output, one line at a time.
+- ctrl + u : Deletes everything before the cursor.
+- ctrl + k : Deletes everything after the cursor.
+- ctrl + l : Cleares the terminal screen, deleting all the output.
+- tab : Autocomplete file or command name.
+- shift + page up : Scroll up in terminal output.
+- shift + page down : Scroll down in terminal output.
+- ctrl + shift + c : Copy the selected text in the terminal.
+- ctrl + shift + v : Paste the selected text in the terminal.
+- ctrl + z : Suspend current process.
+- ctrl + q : Resume output to the screen.
+- alt + b : Move cursor backward by one word.
+- alt + f : Move cursor forward by one word.
+- ctrl + w : Delete word before cursor.
+- ctrl + p : Previous command in history.
+- ctrl + n : Next command in history.
+- ctrl + r : Search through command history.
+- up arrow key: Get previous command.
+- down arrow key: Get next command.
